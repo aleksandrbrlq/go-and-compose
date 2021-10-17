@@ -1,4 +1,4 @@
-Live-reloading command line utility https://github.com/cosmtrek/air for Go applications in development in docker.
+### Live-reloading command line utility https://github.com/cosmtrek/air for Go applications in development in docker.
 
 Inspired by https://firehydrant.io/blog/develop-a-go-app-with-docker-compose/
 
