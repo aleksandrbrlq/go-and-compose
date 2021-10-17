@@ -1,0 +1,21 @@
+# Ignore the build directory #
+###################
+/tmp
+
+# Ignore logs #
+###################
+*.log
+
+# The file containing environment variables #
+###################
+.env
+
+# The file containing air configuration #
+###################
+.air.toml
+
+# Ignore IDE specific files #
+###################
+.idea/
+.vscode/
+*.sw*
